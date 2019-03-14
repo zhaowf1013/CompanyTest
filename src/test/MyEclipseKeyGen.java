@@ -14,7 +14,6 @@ public class MyEclipseKeyGen {
      * ¾ßÌåµÄSubscription CodeÉú³ÉËã·¨
      *
      * @param
-     *
      * @param licenseNum
      * @return Subscription Code
      */
